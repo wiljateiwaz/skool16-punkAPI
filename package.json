@@ -16,6 +16,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "overrides": {
+    "decode-uri-component": ">=0.5.0"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
